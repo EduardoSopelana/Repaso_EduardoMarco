@@ -1,4 +1,4 @@
-package Practica_EduardoMarco;
+dpackage Practica_EduardoMarco;
 
 public class Practica_EduardoMarco {
 	public static void main(String[] arg) {
